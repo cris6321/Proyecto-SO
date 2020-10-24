@@ -1,0 +1,7 @@
+C:\Uni\1B\Projecte de Programació\Formularios basico\Proyecto_Cliente\Proyecto_Cliente\bin\Debug\Proyecto_Cliente.exe
+C:\Uni\1B\Projecte de Programació\Formularios basico\Proyecto_Cliente\Proyecto_Cliente\bin\Debug\Proyecto_Cliente.pdb
+C:\Uni\1B\Projecte de Programació\Formularios basico\Proyecto_Cliente\Proyecto_Cliente\obj\x86\Debug\Proyecto_Cliente.Form1.resources
+C:\Uni\1B\Projecte de Programació\Formularios basico\Proyecto_Cliente\Proyecto_Cliente\obj\x86\Debug\Proyecto_Cliente.Properties.Resources.resources
+C:\Uni\1B\Projecte de Programació\Formularios basico\Proyecto_Cliente\Proyecto_Cliente\obj\x86\Debug\Proyecto_Cliente.csproj.GenerateResource.Cache
+C:\Uni\1B\Projecte de Programació\Formularios basico\Proyecto_Cliente\Proyecto_Cliente\obj\x86\Debug\Proyecto_Cliente.exe
+C:\Uni\1B\Projecte de Programació\Formularios basico\Proyecto_Cliente\Proyecto_Cliente\obj\x86\Debug\Proyecto_Cliente.pdb
